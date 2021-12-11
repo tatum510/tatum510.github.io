@@ -1,6 +1,6 @@
 ---
 title: ' '
-pagetitle: 'Your Name'
+pagetitle: 'Tatum Tran'
 output: 
   html_document: 
     css: "styles.css"
@@ -15,16 +15,11 @@ rmarkdown::site_generator()
 
 <br>
 
-# Welcome! I am Bevo XV. 
+# Welcome! I am Tatum
   
 </br>
 
-##### I weigh almost one ton and my horns are ~5 feet long from tip to tip.
-
-##### I enjoy football and chewing on various grasses. 
-
-##### I do not like the UGA Bulldog and I do not hold any advanced degrees.  
-
-##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+##### I like sunsets and picnics.
+##### You can find my projects [here](/portfolio)!
 
 ---
