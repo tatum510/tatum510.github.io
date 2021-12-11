@@ -1,0 +1,26 @@
+---
+title: "Portfolio"
+pagetitle: 'Portfolio'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{r, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+
+*Check out some examples of my work below*
+
+<br>
+
+- <i class="fa fa-chart-line"> </i> [Project 1: This project explores the Pokemon dataset.](https://tatum510.github.io/project1/)
+
+    
+
+<br>
+
+- <i class="fa fa-chart-pie"> </i> [Project 2: This project explores modeling with a Super Mario Bros dataset.](https://tatum510.github.io/project2/)
+
+    
